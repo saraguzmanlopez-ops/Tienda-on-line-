@@ -31,4 +31,8 @@ Inventario: Clase encargada de los métodos de búsqueda, actualización y cálc
 Clonar el repositorio:
 
 Bash
+<<<<<<< HEAD
 git clone https://github.com/saraguzmanlopez-ops/Tienda-on-line-.git
+=======
+git clone https://github.com/saraguzmanlopez-ops/Tienda-on-line-.git
+>>>>>>> 5229e2427f7ce99d26c4686e623239a265b891cb
